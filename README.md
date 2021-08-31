@@ -1,8 +1,8 @@
-# Welcome!
+# Sejam Bem-Vindos! 
 
  
 
-## I'm (SEU NOME)!
+## Sou estudante de Cência de Dados, atualmente trabalho na rede de agência varejo no Banco do Brasil e estou a procura de uma oportunidade na área de Ciência ou Analise de Dados.
 
  
 
@@ -10,7 +10,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning everything.
+⚙️ Tenho conhecimento básico: Python Pandas Numpy Pyspark Scikit Learn Jupyter PostgreSQL Linux Git Github VS Code
 
 :outbox_tray: 2021 Goals: create a new project and find a new job.
 
