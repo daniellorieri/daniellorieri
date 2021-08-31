@@ -3,12 +3,12 @@
  
 
 #### Sou estudante de Cência de Dados, trabalho a mais de 5 anos na rede de agência varejo no Banco do Brasil e estou à procura de uma oportunidade na área de Ciência de Dados ou Análise de Dados. Estou cursando o 2º semetre de Ciência de Dados na Universidade Estácio de Sá.
-### Espero por meio deste contribuir e apresentar estudos e projetos que venho realizando.
+#### Espero por meio apresentar estudos e projetos que venho realizando.
 
  
 
  
-✨##### Linguagens e Ferramentas:
+✨Linguagens e Ferramentas:
 
 ⚙️ Tenho conhecimento básico: Python, Pandas, Jupyter, VS Code
 
@@ -18,17 +18,17 @@
 
  
 
-
+<!--
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
-
+-->
 
 
 - Obrigado pela Visita.
 
-- Enjoy it!! o/
+
 
 <!--
 **daniellorieri/daniellorieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
