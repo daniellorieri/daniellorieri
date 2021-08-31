@@ -13,7 +13,7 @@
 
 🌱 Estou aprendendo: SQL, PowerBI, Scikit Learn, Estatística
 
-:outbox_tray: 2021 Goals: create a new project and find a new job.
+:outbox_tray: Objetivos para 2021: criar um novo projeto e encontrar um novo emprego, na área de Ciência de Dados ou Análise de Dados.
 
  
 
