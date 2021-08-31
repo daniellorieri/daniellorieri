@@ -2,7 +2,8 @@
 
  
 
-## Sou estudante de Cência de Dados, atualmente trabalho na rede de agência varejo no Banco do Brasil e estou a procura de uma oportunidade na área de Ciência ou Analise de Dados.
+## Sou estudante de Cência de Dados, trabalho a mais de 5 anos na rede de agência varejo no Banco do Brasil e estou à procura de uma oportunidade na área de Ciência de Dados ou Análise de Dados.
+## Estou cursando o 2º semetre de Ciência de Daodos na Universidade Estácio de Sá.
 
  
 
@@ -10,7 +11,9 @@
 
 :house_with_garden: I’m from Brazil.
 
-⚙️ Tenho conhecimento básico: Python Pandas Jupyter VS Code
+⚙️ Tenho conhecimento básico: Python, Pandas, Jupyter, VS Code
+
+🌱 Estou aprendendo: SQL, PowerBI, Scikit Learn, Estatística
 
 :outbox_tray: 2021 Goals: create a new project and find a new job.
 
