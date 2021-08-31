@@ -10,7 +10,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-⚙️ Tenho conhecimento básico: Python Pandas Numpy Pyspark Scikit Learn Jupyter PostgreSQL Linux Git Github VS Code
+⚙️ Tenho conhecimento básico: Python Pandas Jupyter VS Code
 
 :outbox_tray: 2021 Goals: create a new project and find a new job.
 
