@@ -26,7 +26,8 @@
 -->
 
 
-- Obrigado pela Visita.
+
+⚡Obrigado pela Visita.
 
 
 
