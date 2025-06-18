@@ -2,19 +2,17 @@
 
  
 
-#### Sou estudante de Cência de Dados, trabalho a mais de 5 anos na rede de agência varejo no Banco do Brasil e estou à procura de uma oportunidade na área de Ciência de Dados ou Análise de Dados. Estou cursando o 2º semetre de Ciência de Dados na Universidade Estácio de Sá.
-#### Espero poder apresentar e contribuir com estudos e projetos que venho realizando.
 
  
 
  
 ✨Linguagens e Ferramentas:
 
-⚙️ Tenho conhecimento básico: Python, Pandas, Jupyter, VS Code
+⚙️ Tenho conhecimento básico: 
 
-🌱 Estou aprendendo: SQL, PowerBI, Scikit Learn, Estatística
+🌱 Estou aprendendo: 
 
-:outbox_tray: Objetivos para 2021: criar projeto e encontrar um novo emprego na área de Ciência de Dados ou Análise de Dados.
+:outbox_tray: Objetivos
 
  
 
